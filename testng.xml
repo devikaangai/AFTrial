@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/devik/IdeaProjects/AmazonFramework"><classes><class name="PageTEstPackage.HomePageTest"><methods><include name="TestLogo"/><include name="clicklogin"/></methods></class><class name="PageTEstPackage.LandingPageTest"><methods><include name="LandTest"/></methods></class><class name="PageTEstPackage.LoginPageTest"><methods><include name="TestLogin"/></methods></class></classes></test></suite>
